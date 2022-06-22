@@ -36,7 +36,7 @@
 </details>
 
 <details>
-  <summary>🌏 my love</summary>
+  <summary>🌏 about me</summary>
 <div>
 <h2 align="center"> Something about me... </h2>
 </div>
