@@ -138,5 +138,5 @@
 </details>
 
 ------
-Credit: [1999azzar](https://github.com/1999azzar)
-Last Edited on: 01/06/2022
+Credit: [nextamir](https://github.com/nextamir)
+Last Edited on: 22/06/2022
