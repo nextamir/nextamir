@@ -36,9 +36,9 @@
 </details>
 
 <details>
-  <summary>🌏 global</summary>
+  <summary>🌏 my love</summary>
 <div>
-<h2 align="center"> Wanna learn more something about me? </h2>
+<h2 align="center"> Im in love with my bestie :) </h2>
 </div>
 
 ```js
